@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__MCP-Meta-Ads__ads_get_ad_entities",
+      "mcp__MCP-Meta-Ads__ads_get_field_context",
+      "mcp__MCP-Meta-Ads__ads_get_ad_accounts",
+      "mcp__claude-code-remote__add_repo",
+      "Artifact",
+      "Read",
+      "Write",
+      "Edit",
+      "Bash(node:*)",
+      "Bash(python3:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(cmp:*)",
+      "Bash(date:*)",
+      "Bash(git status:*)",
+      "Bash(git fetch:*)",
+      "Bash(git checkout:*)",
+      "Bash(git clone:*)",
+      "Bash(git add data.enc.json)",
+      "Bash(git commit:*)",
+      "Bash(git push origin main)"
+    ]
+  }
+}
